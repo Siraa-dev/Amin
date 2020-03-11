@@ -2,11 +2,11 @@
 "cars" : [
   {"name" : "Mustang" ,
 "photo" : "https://www.rustyeckford.net/inventoryphotos/5097/1fa6p8cf2k5134640/ip/1.jpg?height=400" , 
-price : 43000
+"price" : 43000
 },
   {"name" : "Aventador" ,
    "photo" :"https://robbreportedit.files.wordpress.com/2019/08/svj6301.jpg?w=1000" ,
-   price : 539000
+   "price" : 539000
   }
 ]
 }
